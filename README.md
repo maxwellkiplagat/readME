@@ -10,7 +10,7 @@
 
 <!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=4500&color=00FF66&center=true&vCenter=true&width=900&height=60&lines=Backend+so+stable+it+could+run+Skynet.;Geeking+my+way+up-ready+APIs.;Debugging+is+my+toxic+relationship.;Bots+fear+me+%26+computers+respect+me.">
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=4500&color=00FF66&center=true&vCenter=true&width=900&height=60&lines=Backend+so+stable+it+could+run+Skynet.;Geeking+my+way+up.;Just+Arranging+1's+And+0's.>
 </p>
 
 ---
