@@ -55,10 +55,9 @@
 ---
 
 ##  Achievements Flex
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=maxwellkiplagat&theme=matrix&no-frame=true&column=6" />
+<p align="right"> 
+  <img src="https://komarev.com/ghpvc/?username=maxwellkiplagat&label=Profile%20views&color=blueviolet&style=flat" alt="views" /> 
 </p>
-
 ---
 
 ##  Matrix Snake Override
