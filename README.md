@@ -14,17 +14,17 @@
 </p>
 
 ---
-<p align="right"> 
+<p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=maxwellkiplagat&label=Profile%20views&color=blueviolet&style=flat" alt="views" /> 
 </p>
 
 
 ##  About Me
 -  Full-stack dev specializing in **Python + Django**
--  Code so optimized it beats the WiFi router to sleep
+
 -  Currently boosting **React** through sheer determination
 -  Building tech that solves real-world problems
--  Snakes in my backyard be like: “teach me Python”
+
 
 ---
 
