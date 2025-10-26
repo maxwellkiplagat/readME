@@ -76,8 +76,10 @@
 ---
 
 ##  Currently Hacking To:
+
+
 <p align="center">
-  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=ab53cqz6kyvrsvxwr8nkds69d&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=false" />
+  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=ab53cqz6kyvrsvxwr8nkds69d&cover_image=true&theme=dark&bar_color=53b14f&bar_color_cover=true" />
 </p>
 
 ---
