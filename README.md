@@ -51,19 +51,9 @@
 ##  Music listening:
 
 
-<p align="Left">
-  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=ab53cqz6kyvrsvxwr8nkds69d&redirect=true">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=ab53cqz6kyvrsvxwr8nkds69d&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&profanity=false">
-  </a>
-</p>
 <p align="center">
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=ab53cqz6kyvrsvxwr8nkds69d&redirect=true">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=ab53cqz6kyvrsvxwr8nkds69d&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&profanity=false">
-  </a>
-</p>
-<p align="right">
-  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=ab53cqz6kyvrsvxwr8nkds69d&redirect=true">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=ab53cqz6kyvrsvxwr8nkds69d&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&profanity=false">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=ab53cqz6kyvrsvxwr8nkds69d&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&profanity=true">
   </a>
 </p>
 
