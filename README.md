@@ -18,6 +18,13 @@
   <img src="https://komarev.com/ghpvc/?username=maxwellkiplagat&label=Profile%20views&color=blueviolet&style=flat" alt="views" /> 
 </p>
 ---
+<p align="right">
+  <a href="https://github.com/maxwellkiplagat">
+    <img src="https://komarev.com/ghpvc/?username=maxwellkiplagat&label=Views&color=blueviolet&style=flat" />
+  </a>
+</p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=maxwellkiplagat&theme=discord&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 ##  About Me
 -  Full-stack dev specializing in **Python + Django**
