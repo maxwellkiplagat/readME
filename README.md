@@ -14,6 +14,10 @@
 </p>
 
 ---
+<p align="right"> 
+  <img src="https://komarev.com/ghpvc/?username=maxwellkiplagat&label=Profile%20views&color=blueviolet&style=flat" alt="views" /> 
+</p>
+---
 
 ##  About Me
 -  Full-stack dev specializing in **Python + Django**
@@ -24,23 +28,14 @@
 
 ---
 
-## Tech Arsenal
+## Tech stack
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,django,react,js,html,css,tailwind,bootstrap,git,docker,linux,postgres,mysql,sqlite,redis,postman,figma,heroku&theme=dark" />
 </p>
 
 ---
 
-##  Featured Creations
-| Project | Tech | Status |
-|--------|------|--------|
-|  Smart Water Monitoring IoT | Django, ESP, Cloud | Scaling |
-| Deliveroo | Flask API + React | UI glow up |
-|  Car Dealership Platform | Django + DevOps | Test deploy |
 
-🔗 More: https://github.com/maxwellkiplagat?tab=repositories
-
----
 
 ##  Matrix Analytics
 <p align="center">
@@ -53,31 +48,10 @@
 </p>
 
 ---
-
-##  Achievements Flex
-<p align="right"> 
-  <img src="https://komarev.com/ghpvc/?username=maxwellkiplagat&label=Profile%20views&color=blueviolet&style=flat" alt="views" /> 
-</p>
----
-
-##  Matrix Snake Override
-<p align="center">
-  <img src="https://raw.githubusercontent.com/maxwellkiplagat/maxwellkiplagat/output/github-contribution-grid-snake-dark.svg" />
-</p>
-
----
-
-##  Latest YouTube Uploads
-<!-- YOUTUBE:START -->
-- Coming soon fam… stay tuned 👀
-<!-- YOUTUBE:END -->
-
----
-
-##  Currently Hacking To:
+##  Music listening:
 
 
-<p align="center">
+<p align="Left">
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=ab53cqz6kyvrsvxwr8nkds69d&redirect=true">
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=ab53cqz6kyvrsvxwr8nkds69d&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&profanity=false">
   </a>
